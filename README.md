@@ -6,14 +6,18 @@ José Manuel Porras Morera:
 Creacion del Diagrama de clase. (Completado)
 Desarrollo de la clase Main. (En proceso)
 Desarrollo de la clase AdministracionUsuarios. (En proceso)
+Desarrollo de Nodos y Pilas. (Sin iniciar)
+
 
 Alejandro Montero Rodriguez:
-C
+Creacion del GitHub. (Completado)
+Encargado del Github especificamente el agregado de codigo.
+
 Devin Josue Gonzalez Ovando:
 
 
 Librerías Utilizadas:
--JOptionPane
+-javax.swing.JOptionPane
 
 Posibles Librerías a Utilizar:
 - Java.util.DATE
