@@ -17,6 +17,15 @@ Encargado del Github especificamente el agregado de codigo. (Avance 1 Completado
 Devin Josue Gonzalez Ovando:
 Desarrollo de la clase CreacionMensajesRespuestas. (En proceso)
 
+Tareas:
+Creacion del Diagrama de clase. (Completado)
+Desarrollo de la clase Main. (Completado)
+Desarrollo de la clase MenuPrincipal. (Completado)
+Desarrollo de la clase AdministracionUsuarios. (En proceso)
+Desarrollo de Nodos, Pilas y Arboles Binarios. (Sin iniciar)
+Desarrollo de la clase VisualizacionMensajes. (En proceso)
+Desarrollo de la clase CreacionMensajesRespuestas. (En proceso)
+
 Librerías Utilizadas:
 -javax.swing.JOptionPane
 
