@@ -96,6 +96,9 @@ El siguiente Proyecto consiste en el desarrollo de una plataforma de red social 
 ## 9.0 ListaSimple
 -9.1 private Nodo cabeza()_
 -9.2 insertar(administracionUsuario p)
+## Diseno de la aplicacion (Beta)
+
+![image](https://github.com/Alemr1008/2024_4C_SC-304_HE_J_GRUPO-2/assets/91296126/b6128cd4-ca60-47f9-b418-97cf2fdd7f51)
 
 Librerías Utilizadas:
 -javax.swing.JOptionPane
